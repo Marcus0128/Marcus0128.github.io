@@ -7,10 +7,9 @@
     "faviconUrl":"http://meekdai.com/favicon.ico",
     "singlePage":[],
     "GMEEK_VERSION":"last"
-    </div>
-    <div class="footer">豫ICP备20231217号 • Copyright © Marcus</span></div>
-    </body>
-    <script>
+    "filingNum":"豫ICP备20231217号 ,Copyright © Marcus"
+    
+ 
     "email":"mengyanghan18@163.com",
     "startSite":"12/17/2023",
     "onePageListNum":15,

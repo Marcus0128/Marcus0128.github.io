@@ -7,4 +7,17 @@
     "faviconUrl":"http://meekdai.com/favicon.ico",
     "singlePage":[],
     "GMEEK_VERSION":"last"
+    </div>
+<div class="footer">豫ICP备20231217号 • Copyright © Marcus</span></div>
+</body>
+<script>
+    "email":"mengyanghan18@163.com",
+    "startSite":"12/17/2023",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
+    "urlMode":"pinyin"
 }
